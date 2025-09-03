@@ -1,5 +1,5 @@
 
-# Atividades Desenvolvimento Web 1 - Matheus Castro
+# Atividades de Desenvolvimento Web 1 - Matheus Castro
 
 ## Minhas 14 Atividades 🚀
 - [Atividade 01](https://teuzreal.github.io/Atividade01-web1/)
@@ -28,4 +28,3 @@ Este repositório reúne as quatorze atividades realizadas na disciplina <b>Dese
 📬 Email: matheus.castro09@aluno.ifce.edu.br
 
 📞 Telefone: (85) 98622-2412
-
